@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 !/bin/bash
 chmod 754 hello
+=======
+#!/bin/bash
+chmod 750 hello
+>>>>>>> f045840b79625d85339bd60873aaf4d6027e02ad
