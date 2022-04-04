@@ -1,2 +1,2 @@
-#!/in/bash
-cat /etc/psswd | grep -A 3 root
+#!/bin/bash
+cat /etc/passwd | grep -A 3 root
