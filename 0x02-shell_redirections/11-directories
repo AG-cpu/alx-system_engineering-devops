@@ -1,2 +1,2 @@
-#!/booin/bash
-ls -lRa -a
+#!/bin/bash
+ls -lRa -a | wc -l
